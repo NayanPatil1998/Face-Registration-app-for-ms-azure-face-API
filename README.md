@@ -1,5 +1,5 @@
-#APK
-is At build/app/outputs/apk/
+# APK
+Location for APK build/app/outputs/apk/
 
 
 # demo
